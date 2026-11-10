@@ -13,7 +13,7 @@ SYSTEM_PROMPT = (
 )
 
 OLLAMA_URL = "http://localhost:11434/api/chat"
-MODEL_NAME = "llama3"
+MODEL_NAME = "tinyllama"
 
 
 def ask_ollama(user_message):
